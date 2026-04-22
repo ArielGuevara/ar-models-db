@@ -1,0 +1,20 @@
+{
+  "models": [
+    {
+      "id": "FOX001",
+      "name": "Fox",
+      "description": "Modelo de zorro animado",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/Fox/glTF-Binary/Fox.glb",
+      "thumbnail": "",
+      "author": "Khronos Group"
+    },
+    {
+      "id": "CAT001",
+      "name": "Gato Humanoide",
+      "description": "Modelo de gato humanoide",
+      "url": "https://TU_URL_AQUI/mascota.glb",
+      "thumbnail": "",
+      "author": "Tu nombre"
+    }
+  ]
+}
