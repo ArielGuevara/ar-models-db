@@ -4,7 +4,7 @@
       "id": "FOX001",
       "name": "Fox",
       "description": "Modelo de zorro animado",
-      "url": "https://github.com/ArielGuevara/-ar-models-db/blob/main/Fox.glb",
+      "url": "https://raw.githubusercontent.com/ArielGuevara/-ar-models-db/main/Fox.glb",
       "thumbnail": "",
       "author": "Khronos Group"
     },
@@ -12,7 +12,7 @@
       "id": "CAT001",
       "name": "Gato Enojado",
       "description": "Modelo de gato humanoide enojado",
-      "url": "https://github.com/ArielGuevara/-ar-models-db/blob/main/mascotaAngry.glb",
+      "url": "https://raw.githubusercontent.com/ArielGuevara/-ar-models-db/main/mascotaAngry.glb",
       "thumbnail": "",
       "author": "Grupo 3"
     },
@@ -20,7 +20,7 @@
       "id": "CAT002",
       "name": "Gato Bailando",
       "description": "Modelo de gato humanoide bailando",
-      "url": "https://github.com/ArielGuevara/-ar-models-db/blob/main/mascota_bailando2.glb",
+      "url": "https://raw.githubusercontent.com/ArielGuevara/-ar-models-db/main/mascota_bailando2.glb",
       "thumbnail": "",
       "author": "Grupo 3"
     },
@@ -28,7 +28,7 @@
       "id": "CAT003",
       "name": "Gato con Guitarra",
       "description": "Modelo de gato humanoide con guitarra",
-      "url": "https://github.com/ArielGuevara/-ar-models-db/blob/main/mascota_guitarra.glb",
+      "url": "https://raw.githubusercontent.com/ArielGuevara/-ar-models-db/main/mascota_guitarra.glb",
       "thumbnail": "",
       "author": "Grupo 3"
     }
